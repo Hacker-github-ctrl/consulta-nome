@@ -8,7 +8,7 @@ apt install python3
 ```
 git 
 ```
-git clone
+git clone https://github.com/Hacker-github-ctrl/consulta-nome.git
 ```
 cd 
 ```
