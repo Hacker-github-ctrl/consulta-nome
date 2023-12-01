@@ -2,17 +2,19 @@
 teste de conhecimento escrito em Python
 
 
-1.
+começo
 ```
 apt install python3
 ```
-
+git 
+```
 git clone
 ```
-3.
+cd 
 ```
-cd consulta nome
+4. cd consulta nome
 ```
-4.
+final
 ```
 python3 consulta nome.py
+```
