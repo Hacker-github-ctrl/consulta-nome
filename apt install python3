@@ -1,4 +1,4 @@
 apt install python3
 git clone https://github.com/Hacker-github-ctrl/consulta-nome.git
-cd consulta nome
-python3 consulta nome.py
+cd consulta-nome
+python3 consulta-nome.py
