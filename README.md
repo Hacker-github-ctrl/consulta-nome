@@ -12,9 +12,9 @@ git clone https://github.com/Hacker-github-ctrl/consulta-nome.git
 ```
 cd 
 ```
-4. cd consulta nome
+4. cd consulta-nome
 ```
 final
 ```
-python3 consulta nome.py
+python3 consulta-nome.py
 ```
