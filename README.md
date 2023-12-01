@@ -4,8 +4,10 @@ teste de conhecimento escrito em Python
 1.
 ´´´
 apt install python3
+```
+bash
 ´´´
-2.
+3.
 ```
 git clone
 ```
