@@ -1,13 +1,11 @@
 # consulta-nome
 teste de conhecimento escrito em Python
 
-1.
 ´´´
+1.
+```
 apt install python3
 ```
-bash
-´´´
-3.
 ```
 git clone
 ```
